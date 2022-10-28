@@ -58,7 +58,8 @@ flutter:
     - assets/images/
     - assets/images/adrian/pg1/
     - assets/images/adrian/pg2/
-    - assets/images/jachin/
+    - assets/images/jachin/pg1/
+    - assets/images/jachin/pg2/
     - assets/images/michael/
     - assets/images/alexis/
     - assets/images/duke/
