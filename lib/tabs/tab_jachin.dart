@@ -27,6 +27,8 @@ class TabJachin extends StatelessWidget {
             pg2: 'assets/images/jachin/pg2/father2.jpg'),
         CustomListTile(title: 'N/A', subtitle: 'N/A'),
         CustomListTile(title: 'N/A', subtitle: 'N/A'),
+
+        const Icon(Icons.add),
       ],
     );
   }
