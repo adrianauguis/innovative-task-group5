@@ -62,7 +62,8 @@ flutter:
     - assets/images/michael/
     - assets/images/alexis/
     - assets/images/duke/
-    - assets/images/niel/
+    - assets/images/niel/pg1/
+    - assets/images/niel/pg2/
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
