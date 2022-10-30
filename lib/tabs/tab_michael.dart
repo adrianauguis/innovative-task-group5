@@ -64,7 +64,7 @@ class TabMichael extends StatelessWidget {
               imageAsset: 'assets/images/michael/pg1/yiji.jpg',
               rel: 'Taken',
               occ: 'Student',
-              bdy: 'May 26, 2000',
+              bdy: 'May 26, 2001',
               age: '22',
               pg2: 'assets/images/michael/pg2/mainbgyeji.jpg'),
         ],
