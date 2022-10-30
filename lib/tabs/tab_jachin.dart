@@ -60,7 +60,7 @@ class TabJachin extends StatelessWidget {
               occ: 'Student',
               bdy: 'January 23, 2000',
               age: '22',
-              pg2: 'assets/images/jachin/pg2/olderbrother2.jpg'
+              pg2: 'assets/images/jachin/pg2/olderbrother1.jpg'
           ),
           const Divider(
             height: 5,
